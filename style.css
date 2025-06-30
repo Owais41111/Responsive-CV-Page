@@ -93,22 +93,6 @@ p {
     margin-bottom: 0.05cm;
 }
 
-.download-btn {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #0074D9;
-    color: #fff;
-    border-radius: 5px;
-    text-decoration: none;
-    font-weight: bold;
-    margin: 20px 0;
-}
-
-.download-btn:hover {
-    background-color: #005fa3;
-}
-
-
 
 
 .bolded {
@@ -232,7 +216,6 @@ page[size="A4"] {
     position: absolute;
     top: 0.1cm;
     bottom: -0.2cm;
-
     left: 0.05cm;
 }
 
