@@ -94,7 +94,7 @@ Responsive-CV-Page/
 ---
 
 ## 📸 Screenshot
-
+![Ejaz Ahmed CV](https://github.com/user-attachments/assets/f098d509-fe09-4ac7-b3cd-fa8df45f08e0)
 > Consider adding a screenshot of the full CV layout here for better visual understanding.
 
 ---
