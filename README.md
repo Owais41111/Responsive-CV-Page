@@ -1,7 +1,7 @@
 # 📄 Responsive CV Page
 
 Welcome to **Responsive-CV-Page**! 🎉  
-This is a clean, responsive, and modern CV (Curriculum Vitae) template built with **HTML5** and **CSS3**. Designed to fit an A4 size print layout, it's perfect for showcasing your personal profile, skills, education, certifications, and projects — all in a visually appealing format.
+This is a clean, responsive, and modern CV built with **HTML5** and **CSS3**. Designed to fit an A4 size print layout, it's perfect for showcasing your personal profile, skills, education, certifications, and projects — all in a visually appealing format.
 
 ![https://owais41111.github.io/Responsive-CV-Page/](Ejaz%20pro.jpg) <!-- You can replace this with an actual screenshot if hosted -->
 
